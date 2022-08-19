@@ -1,6 +1,0 @@
-# Nmap 7.91 scan initiated Fri Aug 19 15:19:11 2022 as: nmap -oX - -Pn -T4 --badsum -o /home/mvaliente/git/SegmentN3t/results/2022-08-19_15:19:10/DMZ/VLAN7/badsum.nmap 127.0.0.1
-Nmap scan report for localhost (127.0.0.1)
-Host is up.
-All 1000 scanned ports on localhost (127.0.0.1) are filtered
-
-# Nmap done at Fri Aug 19 15:20:52 2022 -- 1 IP address (1 host up) scanned in 101.33 seconds
