@@ -1,0 +1,6 @@
+Scanning 127.0.0.1 (127.0.0.1), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.

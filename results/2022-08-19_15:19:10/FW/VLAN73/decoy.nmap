@@ -1,0 +1,25 @@
+# Nmap 7.91 scan initiated Fri Aug 19 15:30:19 2022 as: nmap -oX - -Pn -T4 -D RND:10 -o /home/mvaliente/git/SegmentN3t/results/2022-08-19_15:19:10/FW/VLAN73/decoy.nmap 127.0.0.1/30
+Nmap scan report for 127.0.0.0
+Host is up.
+All 1000 scanned ports on 127.0.0.0 are filtered
+
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000012s latency).
+Not shown: 998 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+1433/tcp open  ms-sql-s
+
+Nmap scan report for 127.0.0.2
+Host is up (0.000012s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for 127.0.0.3
+Host is up (0.000046s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+# Nmap done at Fri Aug 19 15:30:34 2022 -- 4 IP addresses (4 hosts up) scanned in 14.55 seconds

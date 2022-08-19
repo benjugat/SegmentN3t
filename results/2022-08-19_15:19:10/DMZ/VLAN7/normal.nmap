@@ -1,0 +1,9 @@
+# Nmap 7.91 scan initiated Fri Aug 19 15:19:10 2022 as: nmap -oX - -Pn -T4 -o /home/mvaliente/git/SegmentN3t/results/2022-08-19_15:19:10/DMZ/VLAN7/normal.nmap 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.0000050s latency).
+Not shown: 998 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+1433/tcp open  ms-sql-s
+
+# Nmap done at Fri Aug 19 15:19:10 2022 -- 1 IP address (1 host up) scanned in 0.13 seconds

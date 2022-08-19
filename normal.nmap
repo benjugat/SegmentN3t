@@ -1,0 +1,8 @@
+# Nmap 7.91 scan initiated Fri Aug 19 13:55:36 2022 as: nmap -oX - -Pn -T4 -o ./normal.nmap 127.0.0.2
+Nmap scan report for 127.0.0.2
+Host is up (0.000065s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+# Nmap done at Fri Aug 19 13:55:36 2022 -- 1 IP address (1 host up) scanned in 0.07 seconds
