@@ -1,6 +1,0 @@
-# Nmap 7.91 scan initiated Mon Aug 22 09:28:15 2022 as: nmap -oX - -Pn -T4 --badsum -o /home/mvaliente/git/SegmentN3t/results/2022-08-22_08:48:46/FW/VLAN72/badsum.nmap 127.0.0.2
-Nmap scan report for 127.0.0.2
-Host is up.
-All 1000 scanned ports on 127.0.0.2 are filtered
-
-# Nmap done at Mon Aug 22 09:29:56 2022 -- 1 IP address (1 host up) scanned in 101.24 seconds

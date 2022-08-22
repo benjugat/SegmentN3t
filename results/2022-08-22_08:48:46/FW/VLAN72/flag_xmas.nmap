@@ -1,8 +1,0 @@
-# Nmap 7.91 scan initiated Mon Aug 22 09:29:58 2022 as: nmap -oX - -Pn -T4 -sX -o /home/mvaliente/git/SegmentN3t/results/2022-08-22_08:48:46/FW/VLAN72/flag_xmas.nmap 127.0.0.2
-Nmap scan report for 127.0.0.2
-Host is up (0.000019s latency).
-Not shown: 999 closed ports
-PORT     STATE         SERVICE
-2222/tcp open|filtered EtherNetIP-1
-
-# Nmap done at Mon Aug 22 09:29:59 2022 -- 1 IP address (1 host up) scanned in 1.34 seconds
