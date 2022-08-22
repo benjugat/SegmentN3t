@@ -1,0 +1,84 @@
+Scanning 127.0.0.1 (127.0.0.1), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.2 (127.0.0.2), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.3 (127.0.0.3), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.4 (127.0.0.4), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.5 (127.0.0.5), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.6 (127.0.0.6), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.7 (127.0.0.7), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.8 (127.0.0.8), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.9 (127.0.0.9), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.10 (127.0.0.10), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.11 (127.0.0.11), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.12 (127.0.0.12), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.13 (127.0.0.13), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.
+Scanning 127.0.0.14 (127.0.0.14), port 1-7000
+7000 ports to scan, use -V to see all the replies
++----+-----------+---------+---+-----+-----+-----+
+|port| serv name |  flags  |ttl| id  | win | len |
++----+-----------+---------+---+-----+-----+-----+
+All replies received. Done.

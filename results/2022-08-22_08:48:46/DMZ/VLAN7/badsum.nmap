@@ -1,0 +1,66 @@
+# Nmap 7.91 scan initiated Mon Aug 22 08:50:09 2022 as: nmap -oX - -Pn -T4 --badsum -o /home/mvaliente/git/SegmentN3t/results/2022-08-22_08:48:46/DMZ/VLAN7/badsum.nmap 127.0.0.1/28
+Nmap scan report for 127.0.0.0
+Host is up.
+All 1000 scanned ports on 127.0.0.0 are filtered
+
+Nmap scan report for localhost (127.0.0.1)
+Host is up.
+All 1000 scanned ports on localhost (127.0.0.1) are filtered
+
+Nmap scan report for 127.0.0.2
+Host is up.
+All 1000 scanned ports on 127.0.0.2 are filtered
+
+Nmap scan report for 127.0.0.3
+Host is up.
+All 1000 scanned ports on 127.0.0.3 are filtered
+
+Nmap scan report for 127.0.0.4
+Host is up.
+All 1000 scanned ports on 127.0.0.4 are filtered
+
+Nmap scan report for 127.0.0.5
+Host is up.
+All 1000 scanned ports on 127.0.0.5 are filtered
+
+Nmap scan report for 127.0.0.6
+Host is up.
+All 1000 scanned ports on 127.0.0.6 are filtered
+
+Nmap scan report for 127.0.0.7
+Host is up.
+All 1000 scanned ports on 127.0.0.7 are filtered
+
+Nmap scan report for 127.0.0.8
+Host is up.
+All 1000 scanned ports on 127.0.0.8 are filtered
+
+Nmap scan report for 127.0.0.9
+Host is up.
+All 1000 scanned ports on 127.0.0.9 are filtered
+
+Nmap scan report for 127.0.0.10
+Host is up.
+All 1000 scanned ports on 127.0.0.10 are filtered
+
+Nmap scan report for 127.0.0.11
+Host is up.
+All 1000 scanned ports on 127.0.0.11 are filtered
+
+Nmap scan report for 127.0.0.12
+Host is up.
+All 1000 scanned ports on 127.0.0.12 are filtered
+
+Nmap scan report for 127.0.0.13
+Host is up.
+All 1000 scanned ports on 127.0.0.13 are filtered
+
+Nmap scan report for 127.0.0.14
+Host is up.
+All 1000 scanned ports on 127.0.0.14 are filtered
+
+Nmap scan report for 127.0.0.15
+Host is up.
+All 1000 scanned ports on 127.0.0.15 are filtered
+
+# Nmap done at Mon Aug 22 09:17:02 2022 -- 16 IP addresses (16 hosts up) scanned in 1613.34 seconds

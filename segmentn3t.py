@@ -29,12 +29,14 @@ except:
 	print('[!] nmap is not installed. Try "pip install python-nmap"')
 	sys.exit(0)
 
+import ipcalc
+'''
 try:
-	import ipaddress
+	import ipcalc
 except:
-	print('[!] ipaddress is not installed. Try "pip install ipaddress"')
+	print('[!] ipcalc is not installed. Try "pip install ipcalc"')
 	sys.exit(0)
-
+'''
 #COLOR CODES
 
 BLACK = '\u001b[30m'
@@ -105,10 +107,6 @@ def print_example():
 	sys.exit(0)
 
 
-def calc_ip(ip_e):
-	return [str(ip) for ip in ipaddress.IPv4Network(ip_e)]
-
-
 def scan(ip, route):
 	print("\t\t[!] Scanning %s" % (ip))
 	nmScan = nmap.PortScanner()
@@ -134,8 +132,7 @@ def scan(ip, route):
 
 
 	if '/' in ip:
-		list_ip = calc_ip(ip)
-		for lip in list_ip:
+		for lip in ipcalc.Network(ip):
 			os.system("(hping3 --scan 1-7000 -S %s | grep -v 'Not res') 2>> %s" % (lip, route + "/hping.txt"))
 	else:
 		os.system("(hping3 --scan 1-7000 -S %s | grep -v 'Not res') 2> %s" % (ip, route + "/hping.txt"))
