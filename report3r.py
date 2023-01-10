@@ -18,7 +18,7 @@ def check_pass(data, paragraph):
 	pass_text = 'PASS ' + u'\u2713'
 	
 	for i in data:
-		if "open" in i:
+		if "open" in i and "open|filtered" not in i:
 			#FAIL
 			paragraph_run = paragraph.add_run(fail_text)
 			ffont = paragraph_run.font
