@@ -160,8 +160,6 @@ def main():
 		print_example()
 	
 
-
-
 	# Read Config
 	if args.finput:
 
