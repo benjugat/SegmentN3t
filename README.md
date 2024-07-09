@@ -4,7 +4,8 @@ Tool to test internal segmentation networks.
 Execute it as ROOT.
 
 ```
-sudo pipenv shell 	
+sudo pipenv shell
+pip3 install -r requirements.txt 	
 ```
 
 Example of usage:
