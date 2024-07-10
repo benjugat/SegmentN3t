@@ -221,6 +221,8 @@ def main():
 		
 		current_dir = os.getcwd()
 		current_dir = os.path.join(current_dir, "results")
+		if not os.path.exists(current_dir):
+			os.mkdir(current_dir)
 		
 
 		date = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
@@ -233,11 +235,14 @@ def main():
 			
 			print(BOLD + UNDERLINED + "[+] Network : %s" % (i['network']) + RESET + "\n")
 			network_dir = os.path.join(results_dir, i['network'])
-			os.mkdir(network_dir)
+			if not os.path.exists(network_dir):
+				os.mkdir(network_dir)
+
 			for j in i['subnets']:
 				print(BOLD + "\t[+] Subnetwork: %s" % (j['vlan']) + RESET)
 				subnetwork_dir = os.path.join(network_dir, j['vlan'])
-				os.mkdir(subnetwork_dir)
+				if not os.path.exists(subnetwork_dir):
+					os.mkdir(subnetwork_dir)
 				scan(j['ip'], subnetwork_dir)
 			print("----")
 
