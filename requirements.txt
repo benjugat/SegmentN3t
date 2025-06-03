@@ -2,4 +2,3 @@ ipcalc
 six
 argparse
 python-nmap
-json
